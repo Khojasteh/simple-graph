@@ -6,7 +6,7 @@ The `SimpleGraph` unit defines the following classes:
   Provides a canvas for drawing simple directional graphs.
 
 - **[TGraphConstraints](TGraphConstraints.md) = class(TPersistent)** \
-  Defines the bounding constraints of the graphs on the [TSimpleGraph](SimpleGraph.md) control.
+  Defines the bounding constraints of the graphs on the [TSimpleGraph](TSimpleGraph.md) control.
 
 - **[TGraphObjectList](TGraphObjectList.md) = class(TPersistent)** \
   Maintains the collection of objects on a graph.
@@ -53,4 +53,4 @@ The `SimpleGraph` unit defines the following classes:
 - **TCompatibleCanvas = class(TCanvas)** \
   Provides a `Canvas` object compatible with the screen's device context.
 
-In addition, the code offers various [global procedures and functions](/Globals.md).
+In addition, the code offers various [global procedures and functions](Globals.md).
