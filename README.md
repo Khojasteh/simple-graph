@@ -1,3 +1,9 @@
+> This repository is no longer actively maintained.
+>
+> I no longer work with Delphi and therefore cannot provide updates, bug fixes, or support for this project. The code is kept here for reference and historical purposes only.
+>
+> Feel free to fork the repository if you find it useful, but please be aware that no future changes are planned.
+
 Description
 ===========
 [TSimpleGraph](Docs/TSimpleGraph.md) is a visual Delphi component, which provides a canvas for drawing [simple directed graphs](https://mathworld.wolfram.com/SimpleDirectedGraph.html). 
